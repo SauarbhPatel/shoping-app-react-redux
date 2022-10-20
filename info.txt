@@ -1,0 +1,5 @@
+npm i axios
+npm i react-router-dom
+
+redux dependies
+npm i redux react-redux
